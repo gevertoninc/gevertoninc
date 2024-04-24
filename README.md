@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @gevertoninc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Geverton, a passionate self-taught developer from Brazil. I take great care in the experience, architecture, and code quality of the things I build
 
-<!---
-gevertoninc/gevertoninc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages and tools:
+
+[![Skills](https://skillicons.dev/icons?i=azure,bash,docker,git,java,kafka,kubernetes,linux,mysql,nodejs,postgres,postman,react,spring,ts)](https://skillicons.dev)
